@@ -1,8 +1,7 @@
 # Kotlin Learning Notes from Udacity Course (ud9011)
-These are all personal notes taken from the Udacity Course of Kotlin Bootcamp for Programmers by Google. You can use it to learn Kotlin if you are a beginner. The notes are ordered from up to down as in the official course.
+These are all personal notes taken from the Udacity Course of Kotlin Bootcamp for Programmers by Google as well as other resources. You can use it to learn Kotlin if you are a beginner. The notes are ordered from up to down as in the official course. 
 
-
-Udacity Kotlin Course Notes
+## Kotlin Notes
 
 ```
 LESSON 1 & 2 INTRODUCTION / KOTLIN BASICS
