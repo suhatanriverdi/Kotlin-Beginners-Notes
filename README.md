@@ -4,6 +4,7 @@ These are all personal notes taken from the Udacity Course of Kotlin Bootcamp fo
 
 Udacity Kotlin Course Notes
 
+```
 LESSON 1 & 2 INTRODUCTION / KOTLIN BASICS
 
 -> PACKAGE DEFINITION AND IMPORTS﻿
@@ -4997,3 +4998,4 @@ fun example() {
     JavaRun.runNow(runnable)
 }
 ////////////////////////////////////////////////////////////////////////////////
+```
