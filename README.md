@@ -3,8 +3,6 @@ These are all personal notes taken from the Udacity Course (ud9011) of Kotlin Bo
 
 ![2021-07-26 21_33_44-Editing Kotlin-Notes_README md at main · shtanriverdi_Kotlin-Notes — Mozilla Fir](https://user-images.githubusercontent.com/36234545/127040534-c2448cfd-a4c4-43cd-9bb3-c03787b37e51.png)
 
-## Kotlin Notes
-
 # Table of Contents
 
 * [Lesson 1 & 2 Introduction | Kotlin Basics](#l1)
@@ -978,7 +976,7 @@ println(nums)
 // [1, -1, 3, 4]
 ```
 
-<h2 id="l1">Lesson 3 | Functions</h2>
+<h2 id="l3">Lesson 3 | Functions</h2>
 ```kotlin
 // A function like main returns a type "UNIT" which is Kotlin's way of saying no value
 fun main(args: Array<String>) {
@@ -1954,7 +1952,7 @@ fun gamePlay(dice: (Int) -> Int, dice2: (Int) -> Int) {
 }
 ```
 
-<h2 id="l1">Lesson 4 | Classes</h2>
+<h2 id="l4">Lesson 4 | Classes</h2>
 ```kotlin
 /*
 Classes are blue prints for objects
@@ -4839,5 +4837,3 @@ fun example() {
     JavaRun.runNow(runnable)
 }
 ```
-
-
