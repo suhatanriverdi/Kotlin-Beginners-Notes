@@ -5,9 +5,16 @@ These are all personal notes taken from the Udacity Course (ud9011) of Kotlin Bo
 
 ## Kotlin Notes
 
-## Lesson 1 & 2 Introduction | Kotlin Basics
+# Table of Contents
 
-### Package Definition And Imports
+* [Lesson 1 & 2 Introduction | Kotlin Basics](#l1)
+* [Lesson 3 | Functions](#l3)
+* [Lesson 4 | Classes](#l4)
+* [Lesson 5 | Kotlin Essentials: Beyond The Basics](#l5)
+
+<h2 id="l1">Lesson 1 & 2 Introduction | Kotlin Basics</h2>
+
+### Package Definition and Imports
 
 ```kotlin
 // Package specification should be at the top of the source file.
@@ -971,7 +978,7 @@ println(nums)
 // [1, -1, 3, 4]
 ```
 
-## Lesson 3 | Functions
+<h2 id="l1">Lesson 3 | Functions</h2>
 ```kotlin
 // A function like main returns a type "UNIT" which is Kotlin's way of saying no value
 fun main(args: Array<String>) {
@@ -1947,7 +1954,7 @@ fun gamePlay(dice: (Int) -> Int, dice2: (Int) -> Int) {
 }
 ```
 
-## Lesson 4 | Classes
+<h2 id="l1">Lesson 4 | Classes</h2>
 ```kotlin
 /*
 Classes are blue prints for objects
@@ -3365,7 +3372,7 @@ object YellowSpiceColor : SpiceColor {
 // Making Spice a sealed class helps keep all the spices together in one file. 
 ```
 
-## Lesson 5 | Kotlin Essentials: Beyond The Basics
+<h2 id="l5">Lesson 5 | Kotlin Essentials: Beyond The Basics</h2>
 ```kotlin
 ```
 
