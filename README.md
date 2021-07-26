@@ -977,6 +977,7 @@ println(nums)
 ```
 
 <h2 id="l3">Lesson 3 | Functions</h2>
+
 ```kotlin
 // A function like main returns a type "UNIT" which is Kotlin's way of saying no value
 fun main(args: Array<String>) {
@@ -1953,6 +1954,7 @@ fun gamePlay(dice: (Int) -> Int, dice2: (Int) -> Int) {
 ```
 
 <h2 id="l4">Lesson 4 | Classes</h2>
+
 ```kotlin
 /*
 Classes are blue prints for objects
@@ -2015,10 +2017,6 @@ class SimpleSpice() {
 // In main
 val simpleSpice = SimpleSpice()
 println("${simpleSpice.name} ${simpleSpice.heat}")
-```
-
-### Practice Time
-```kotlin
 ```
 
 ### Package Visibility
@@ -3371,8 +3369,6 @@ object YellowSpiceColor : SpiceColor {
 ```
 
 <h2 id="l5">Lesson 5 | Kotlin Essentials: Beyond The Basics</h2>
-```kotlin
-```
 
 ### Pairs
 ```kotlin
@@ -4156,11 +4152,7 @@ Notice that the parameter is underlined gray, and if you hover over T, IntelliJ 
 class Building<out T: BaseBuildingMaterial>(val buildingMaterial: T)
 ```
 
-### Generic Functions
-```kotlin
-```
-
-### Practice Time
+### Practice Time | Generic Functions
 ```kotlin
 // We can use generic functions for methods too
 package Aquarium.generics
@@ -4567,11 +4559,7 @@ fun List<Int>.divisibleBy3(): List<Int> {
 ```
 
 ## Inline
-```kotlin
 
-```
-
-### Practice Time
 ```kotlin
 package Aquarium5
 fun main() {
