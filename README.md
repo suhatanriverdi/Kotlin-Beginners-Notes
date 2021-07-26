@@ -1,5 +1,7 @@
-# Kotlin Learning Notes
+# Kotlin Beginners Notes
 These are all personal notes taken from the Udacity Course (ud9011) of Kotlin Bootcamp for Programmers by Google as well as other resources. You can use it to learn Kotlin if you are a **beginner**, I have taken most of the things mentioned in the all sections/videos of this course including some brief pieces from official documentation and official video of JetBrains as well. I also cared about the order of the topics, so it starts from the basics from top to bottom goes to the more advanced ones.
+
+![2021-07-26 21_33_44-Editing Kotlin-Notes_README md at main · shtanriverdi_Kotlin-Notes — Mozilla Fir](https://user-images.githubusercontent.com/36234545/127040534-c2448cfd-a4c4-43cd-9bb3-c03787b37e51.png)
 
 ## Kotlin Notes
 
